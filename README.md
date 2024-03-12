@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/GUOIVolU5moaC1XEjk)](https://ivanbeet.com)
+[![MasterHead](https://giphy.com/gifs/UDn4UBreFbjzP28fnq)](https://ivanbeet.com)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A Software Engineer Student specialising in AI Development</h3>
 
