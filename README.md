@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ivan-blanco-tellez-943528194/](https://www.linkedin.com/in/ivan-blanco-tellez-943528194/)
 
-- 💬 Ask me about **TensorFlow, Python,**
+- 💬 Ask me about **TensorFlow, Python, Pandas**
 
 - 📫 How to reach me **contact@ivanbeet.com**
 
