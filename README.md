@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/en-GB/view/hachubby-rokubop-melody-gamer-future-girl-gif-26197174)](https://ivanbeet.com)
+[![MasterHead](https://giphy.com/gifs/GUOIVolU5moaC1XEjk)](https://ivanbeet.com)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A Software Engineer Student specialising in AI Development</h3>
 
