@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [ivanbeet.com](ivanbeet.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ivan-blanco-tellez-943528194/](https://www.linkedin.com/in/ivan-blanco-tellez-943528194/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ivan-blanco-tellez-943528194/]
 
 - 💬 Ask me about **TensorFlow, Python, Pandas**
 
