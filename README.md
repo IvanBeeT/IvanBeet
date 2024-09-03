@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **contact@ivanbeet.com**
 
-- 📄 Know about my experiences [https://ivanbeet.com/Ivan-CV-2023.pdf](https://ivanbeet.com/Ivan-CV-2023.pdf)
+- 📄 Know about my experiences [https://ivanbeet.com/](https://ivanbeet.com/)
 
 - ⚡ Hobbies **3D Printing and Device Repairing**
 
