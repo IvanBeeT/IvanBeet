@@ -1,6 +1,6 @@
 [![MasterHead](https://ivanbeet.com/Black%20Blue%20White%20Modern%20Software%20Engineer%20Linkedin%20Banner.png)](https://ivanbeet.com)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A Software Engineer Student specialising in AI Development</h3>
+<h3 align="center">A Computer Science Student specialising in AI Development</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanbeet&theme=darkhub" alt="ivanbeet" /></a> </p>
