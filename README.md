@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Financial Manager**
 
-- 🌱 I’m currently learning **Pandas, Seaborn and Java**
+- 🌱 I’m currently learning **Pandas, Seaborn and SciPy**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
