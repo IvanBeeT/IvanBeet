@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **SciPy libraries**
-
 - 👨‍💻 All of my projects are available at [ivanbeet.com](ivanbeet.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ivan-blanco-tellez-943528194/]
