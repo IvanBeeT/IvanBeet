@@ -12,7 +12,7 @@
 
 #### Currently
 
-> Seeting up my own VPS with different tools and technologies that can be seen on [**ivanbeet.com**](https://ivanbeet.com).
+> Setting up my own VPS with different tools and technologies that can be seen on [**ivanbeet.com**](https://ivanbeet.com).
 
 #### Stack
 
