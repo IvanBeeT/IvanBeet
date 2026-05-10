@@ -1,35 +1,48 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A Computer Science Student specialising in AI Development</h3>
+# IvanBeet
 
+**Full stack dev. TypeScript, mostly.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanbeet&theme=darkhub" alt="ivanbeet" /></a> </p>
+[`ivanbeet.com`](https://ivanbeet.com) • [`ivan@ivanbeet.com`](mailto:ivan@ivanbeet.com)
 
-- 🔭 I’m currently working on **AI Financial Manager**
+</div>
 
-- 🌱 I’m currently learning **Pandas, Seaborn and SciPy**
+---
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+#### Currently
 
-- 👨‍💻 All of my projects are available at [ivanbeet.com](ivanbeet.com)
+> Seeting up my own VPS with different tools and technologies that can be seen on [**ivanbeet.com**](https://ivanbeet.com).
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ivan-blanco-tellez-943528194/]
+#### Stack
 
-- 💬 Ask me about **TensorFlow, Python, Pandas**
-
-- 📫 How to reach me **contact@ivanbeet.com**
-
-- 📄 Know about my experiences [https://ivanbeet.com/](https://ivanbeet.com/)
-
-- ⚡ Hobbies **3D Printing and Device Repairing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ivan-blanco-tellez-943528194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-blanco-tellez-943528194/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ivanbeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ivanbeet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ivanbeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ivanbeet" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
+#### Also
 
+3D printing, hardware repair. Bilingual EN/ES.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanbeet&" alt="ivanbeet" /></p>
+#### Open to
+
+Junior or apprenticeship software related roles. Remote or onsite.
+
+---
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanBeet&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+</p>
+
+</div>
