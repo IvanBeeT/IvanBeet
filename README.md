@@ -2,7 +2,7 @@
 
 # IvanBeet
 
-**Full stack dev. TypeScript, mostly.**
+**Full stack dev.**
 
 [`ivanbeet.com`](https://ivanbeet.com) • [`ivan@ivanbeet.com`](mailto:ivan@ivanbeet.com)
 
