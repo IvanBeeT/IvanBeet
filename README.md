@@ -1,6 +1,6 @@
 <div align="center">
 
-# IvanBeet
+#IvanBeet
 
 **Full stack dev.**
 
